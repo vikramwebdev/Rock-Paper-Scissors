@@ -1,0 +1,47 @@
+*{
+   background-color: rgb(109, 230, 230); 
+}
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+#rockId{
+    background-color: rgba(219, 155, 15, 0.874);
+    font-weight: bold;
+}
+#paperId{
+    background-color: white;
+    font-weight: bold;
+}
+#scissorsId{
+    background-color: rgb(28, 211, 28);
+    font-weight: bold;
+}
+#gameDiv{
+    font-family: 'MT', 'Courier New', Courier, monospace;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+#playerText{
+   color: blue;
+   font-weight: bold;
+   background-color: lightgrey;
+}
+#computerText{
+   color: red;
+   font-weight: bold;
+   background-color: lightgrey;
+}
+#resultText{
+   color: rgb(8, 8, 13);
+   font-weight: bold;
+   background-color: lightgrey;
+}
+
+
